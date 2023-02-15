@@ -1,1 +1,1 @@
-[Yo](https://weatherloldeniz.pages.dev)
+[WEATHER](https://weatherloldeniz.pages.dev)
